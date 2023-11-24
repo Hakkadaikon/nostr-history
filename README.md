@@ -10,7 +10,7 @@
 | 2023/06/16 | Interop2023             | 参加    | Androidの会、Shino3の会社ブース見学。|
 | 2023/07/01 | [lightning組立オフ会](https://428lab.connpass.com/event/287697/) | 参加    | 企画:kojiraさん 四谷ラボで実施 その後、近くの中華料理屋で二次会。|
 | 2023/07/07 | Nostrアイディアソン | 参加    | 企画:kojiraさん 四谷ラボdiscordでオンライン実施|
-| 2023/07/27 | kojiraさん 1on1         | 企画    | [楽造](https://r.gnavi.co.jp/g493555/?utm_id=sales-sem-pr_tokyo_dks_g_lis&gad_source=1&gclid=CjwKCAiAsIGrBhAAEiwAEzMlC937rdSjJZcjDutTVs5lb6hohzx7DIAILtevSIpc5UtdvLq_pl6SZBoCi_sQAvD_BwE)でkojiraさんの半生を聞く。|
+| 2023/07/27 | kojiraさん 1on1         | 企画    | [楽蔵](https://r.gnavi.co.jp/g493555/?utm_id=sales-sem-pr_tokyo_dks_g_lis&gad_source=1&gclid=CjwKCAiAsIGrBhAAEiwAEzMlC937rdSjJZcjDutTVs5lb6hohzx7DIAILtevSIpc5UtdvLq_pl6SZBoCi_sQAvD_BwE)でkojiraさんの半生を聞く。|
 | 2023/08/04 | [Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) | 司会/LT | オンラインで実施。社内以外では人生初LT。やる夫botを作った話をする。|
 | 2023/08/11 | カラオケオフ            | 参加    | 企画:七海さん カラオケ館。|
 | 2023/08/19 | Nostr関西オフ           | 参加    | 企画:awayukiさん 京都でたこ焼きパーティー & ボードゲーム。|
