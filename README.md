@@ -26,7 +26,7 @@
 | 2023/11/12 | [技術書典15](https://techbookfest.org/event/tbf15)              | 参加    | 帰りにチバチャンで打ち上げ。全員でバカルーアを飲む。|
 | 2023/11/16 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 下見    | 12/8のオフライン勉強会会場の下見。|
 | 2023/11/17 | ハッカーズバーオフ      | 企画    | マスターにのす本1を献本。マスターがNostrのアカウントを作る。2次会で牡蠣を食べる。|
-| 2023/11/23 | [Flutterで作るNostrアプリのワークショップ](https://japan-android-group.connpass.com/event/301179/) | 参加    | 講師:Shino3 FlutterでTL閲覧＆投稿が出来るアプリが完成。帰りに肉バルを食べて、新宿の花園神社&歌舞伎町に寄る。|
+| 2023/11/23 | [Flutterで作るNostrアプリのワークショップ](https://japan-android-group.connpass.com/event/301179/) | 参加    | 主催:Androidの会 講師:Shino3 FlutterでTL閲覧＆投稿が出来るアプリが完成。帰りに肉バルを食べて、新宿の花園神社&歌舞伎町に寄る。|
   
 ## Bluesky  
   
