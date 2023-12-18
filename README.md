@@ -48,4 +48,5 @@
 | 2023/05/01 | Bluesky開始      | -            | mattn氏がX(Twitter)で大量に招待コードを配っていたので、乞食して開始。|
 | 2023/06/25 | Bluesky関西オフ  | 参加         | BBQをする。2次会でカラオケに行く。                                   |
 | 2023/09/02 | [Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) | 主催/司会/LT | NGワードに引っかかったら投稿できない投稿専用クライアントの話をする。 |
+| 2023/12/19 | [Blueskyアドカレ19日目記載](https://adventar.org/calendars/9443) | 参加 | Blueskyのアドカレ19日目を書く。|
 
