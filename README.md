@@ -33,7 +33,7 @@
 | 2023/11/16 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 下見    | 12/8のオフライン勉強会会場の下見。|
 | 2023/11/17 | ハッカーズバーオフ      | 企画    | マスターにのす本1を献本。マスターがNostrのアカウントを作る。2次会で牡蠣を食べる。|
 | 2023/11/23 | [Flutterで作るNostrアプリのワークショップ](https://japan-android-group.connpass.com/event/301179/) | 参加    | 主催:Androidの会 講師:Shino3 FlutterでTL閲覧＆投稿が出来るアプリが完成。帰りに肉バルを食べて、新宿の花園神社&歌舞伎町に寄る。|
-| 2023/12/02 | [nostrdbのコントリビュータになる](https://github.com/damus-io/nostrdb/pull/18)   | -    | damusで使われているdamus-io/nostrdbにPRがマージされ、nostrdbのコントリビュータになる。|
+| 2023/12/02 | [nostrdbのコントリビュータになる](https://github.com/damus-io/nostrdb/pull/18)   | -    | damusで使われているdamus-io/nostrdbへ送ったPRがマージされ、4人目のコントリビュータになる。|
 | 2023/12/08 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 運営    | 主催:四谷ラボ/つるるん オフライン勉強会の運営をやる。プレゼンタイマーによる時間管理、懇親会の飲食などを担当。 |
 | 2023/12/09 | 日本酒オフ2次会・3次会  | 参加    | 企画:かすてらふぃさん 23:30頃から、新宿の磯丸水産(2次会)に合流。4時まで飲んだあと、まねきねこ(3次会)に移動。6時まで歌って帰る。 |
 | 2023/12/15 | ライブコーディング      | 参加    | のす会のdiscordチャンネルで[lain botのリファクタリング](https://github.com/Hakkadaikon/nostr-lain-bot/commit/00a3e4c2616fa568f2b546088a941c6c646325bc)を配信。[灰木炭さん](https://nostter.app/moctane.com)と[雪猫さん](https://nostter.app/SnowCait@snowcait.github.io)のライブコーディングを見る。 |
