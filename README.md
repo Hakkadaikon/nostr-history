@@ -39,9 +39,9 @@
 | 2023/12/15 | ライブコーディング      | 参加    | のす会のdiscordチャンネルで[lain botのリファクタリング](https://github.com/Hakkadaikon/nostr-lain-bot/commit/00a3e4c2616fa568f2b546088a941c6c646325bc)を配信。[灰木炭さん](https://nostter.app/moctane.com)と[雪猫さん](https://nostter.app/SnowCait@snowcait.github.io)のライブコーディングを見る。 |
 | 2023/12/16 | [四谷ラボ忘年会](https://428lab.connpass.com/event/301908/) | 参加    | 企画: kojiraさん 焼肉/たこ焼き/生ハムを食べる。初めて会った方3人にNostrの説明をしながら導入サポートをする。2次会でまねきねこで朝までカラオケをする。 |
 | 2023/12/19 | 技術書典15 刺さる部門受賞 | -   | 技術書典15で共著で出した本「[Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp)」が、技術書典15の刺され！技術書アワードで刺さる部門の優秀賞を受賞する。 |
-| 2023/12/20 | 平日ダーツ会           | 参加    | 企画:つるるん 参加予定。 |
-| 2023/12/23 | かおらんどさん会       | 参加    | 企画:kojiraさん [かおらんどさん](https://nostter.app/npub1tw4kzhcy94tgzyx6evjnjw4h6fpkhszl8h9genjlqeu862kyzz0swj8jhw)と坪田農場でご飯を食べる会。参加予定。 |
-| 2023/12/24 | 野鳥観察会             | 参加    | 企画:鎌倉さん 東京港野鳥公園で野鳥観察会。起きれたら参加予定。 |
+| 2023/12/23 | かおらんどさん会       | 参加    | 企画:kojiraさん [かおらんどさん](https://nostter.app/npub1tw4kzhcy94tgzyx6evjnjw4h6fpkhszl8h9genjlqeu862kyzz0swj8jhw)と坪田農場でご飯を食べた。22:40頃から鎌倉さんと合流してカラオケ。終電がなくなり、有楽町のジョナサンでAM5:00まで話したあと、[コリドーの湯](https://onsen.nifty.com/ginza-onsen/onsen018020/)に入る。 |
+| 2023/12/24 | 野鳥観察会                   | 参加    | 企画:鎌倉さん 東京港野鳥公園で野鳥観察会を実施。 |
+| 2023/12/24 | TRC かおらんどさんブース訪問 | 参加    | 東京流通センター(TRC)でかおらんどさんのブースに行き、アクリルキーホルダーを買う。 |
   
 ## Bluesky  
   
