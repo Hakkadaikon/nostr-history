@@ -41,8 +41,11 @@
 | 2023/12/19 | 技術書典15 刺さる部門受賞 | -   | 技術書典15で共著で出した本「[Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp)」が、技術書典15の刺され！技術書アワードで刺さる部門の優秀賞を受賞する。 |
 | 2023/12/23 | かおらんどさん会       | 参加    | 企画:kojiraさん [かおらんどさん](https://nostter.app/npub1tw4kzhcy94tgzyx6evjnjw4h6fpkhszl8h9genjlqeu862kyzz0swj8jhw)と坪田農場でご飯を食べた。22:40頃から鎌倉さんと合流してカラオケ。終電がなくなり、有楽町のジョナサンでAM5:00まで話したあと、[コリドーの湯](https://onsen.nifty.com/ginza-onsen/onsen018020/)に入る。 |
 | 2023/12/24 | 野鳥観察会                   | 参加    | 企画:鎌倉さん 東京港野鳥公園で野鳥観察会を実施。 |
+| 2023/12/26 | [nostr-vim](https://github.com/Hakkadaikon/nostr-vim)リリース | - | vim上でnostrに投稿/TL閲覧が出来るnostr-vimをリリース。|
 | 2023/12/24 | TRC かおらんどさんブース訪問 | 参加    | 東京流通センター(TRC)でかおらんどさんのブースに行き、アクリルキーホルダーを買う。 |
-| 2023/12/29 | ゴリラ.vim x 四谷ラボ企画会議| 企画    | 2024/02/10(土)のコラボ勉強会の企画会議に向けて、[ゴリラさん](https://github.com/skanehira)と[ひがしさん](https://github.com/higashi000)を四谷ラボに呼んで企画会議をする。たこ焼きを食べながらNostrでの活動を説明もした。|
+| 2023/12/29 | ゴリラ.vim x 四谷ラボ企画会議| 企画    | 2024/02/10(土)のコラボ勉強会の企画会議に向けて、[ゴリラさん](https://github.com/skanehira)と[ひがしさん](https://github.com/higashi000)を四谷ラボに呼んで企画会議をする。たこ焼きを食べながら企画について話したり、Nostrでの活動を説明する。|
+| 2023/12/30 | 四谷ラボもくもく会           | 企画    | 四谷ラボで、12/30 14:00 - 12/31 5:00頃までもくもく会をやる。init.vim整理やnostr-vimのリファクタ等を実施。途中でRTA in Japanをみて休憩する。|
+| 2024/01/03 | [nostr-vim](https://github.com/Hakkadaikon/nostr-vim)機能追加 | - | リアクション/引用リポスト/リポストの表示に対応。|
   
 ## Bluesky  
   
