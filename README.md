@@ -79,7 +79,7 @@
 | 2023/10/28 | 元Dystopia民スカウト    | -       | goldsteinさんとAtisさんをNostrに呼ぶ。|
 | 2023/12/15 | ライブコーディング      | 参加    | のす会のdiscordチャンネルで[lain botのリファクタリング](https://github.com/Hakkadaikon/nostr-lain-bot/commit/00a3e4c2616fa568f2b546088a941c6c646325bc)を配信。[灰木炭さん](https://nostter.app/moctane.com)と[雪猫さん](https://nostter.app/SnowCait@snowcait.github.io)のライブコーディングを見る。 |
 | 2023/12/19 | 技術書典15 刺さる部門受賞 | -   | 技術書典15で共著で出した本「[Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp)」が、技術書典15の刺され！技術書アワードで刺さる部門の優秀賞を受賞する。 |
-| 2023/03/10 | めいびぃさんverify      | -       | 馬刺しオフに行く途中のめいびぃさんを秋葉原駅でverify. |
+| 2024/03/10 | めいびぃさんverify      | -       | 馬刺しオフに行く途中のめいびぃさんを秋葉原駅でverify. |
   
 ## Bluesky  
   
