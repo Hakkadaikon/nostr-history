@@ -63,6 +63,8 @@
   
 ### その他の出来事  
   
+| 日時       | 出来事                  | 役割    | 備考                                              |
+| ---------- | ----------------------- | ------- | --------------------------------------------------|
 | 2023/06/09 | [やる夫botリリース](https://github.com/Hakkadaikon/nostr-yaruo-bot/commit/52b723c81929501dc93a423225f463cf1b137e1b) | -       | 技術書典14で購入した[Hello Nostr! 先住民が教えるNostrの歩き方](https://techbookfest.org/product/veGeNq1tNkYFfWnZWgEC72?productVariantID=u5RZNM5e77xHH97c65PCx9h0)を見ながら、OpenAIのAPI(GPT)を使ったChatbotをリリース。|
 | 2023/08/02 | [発火大根Tシャツ誕生](https://suzuri.jp/aogi_nostr/14050940/big-t-shirt/l/white) | - | アイコンを描いてくれたあおぎさんが、SUZURIでTシャツを作ってくれる。|
 | 2023/09/24 | Dystopia強襲            | -       | DystopiaがNostrで話題に上がったので、始めてみる。|
