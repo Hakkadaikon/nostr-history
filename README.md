@@ -55,11 +55,12 @@
  |  18 | 2023/12/30 | 四谷ラボもくもく会           | 企画    | 四谷ラボで、12/30 14:00 - 12/31 5:00頃までもくもく会をやる。init.vim整理やnostr-vimのリファクタ等を実施。途中でRTA in Japanをみて休憩する。|
  |  19 | 2024/02/10 | [ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) | 主催 | ゴリラ.vimとコラボでLT会を開催。|
  |  20 | 2024/03/06 | [開発者のためのビットコイン&ライトニング開発の基本講座](ihttps://lu.ma/taxs08kp) | 参加 | イベント参加。懇親会でterukoさん/Justin_tokyoさんをverify |
- |  21 | 2024/04/27 | [C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) | LT | C# + NostrのLTをやる。|
- |  22 | 2024/05/19 | 東京大学 5月祭          | 参加    | 5月祭に参加。renさんが手伝っていたHSL研究会の石鹸作りに行く。|
- |  23 | 2024/05/25 | [おしゃ会5 出店](https://x.com/an_apco/status/1790337763247575394) | 出店 | Nattoさんの誘いで、おしゃ会5に出店。ビットコインとNostrグッズを販売。|
- |  24 | 2023/05/26 | [技術書典16](https://techbookfest.org/event/tbf16) | 参加    | Nostr本に記事を寄稿。お世話になった方2人に献本。帰りにチバチャンで打ち上げ。|
- |  25 | 2024/05/29 | [WTF IS NOSTR@焔ノ香](https://nostrudel.ninja/#/n/nevent1qvzqqqqqqypzp47x6q2txs5ptw3fcj8ngj0y7qrnm7z0ft2cptshx5uqgxn2hd4cqy08wumn8ghj7mn0wd68ytnrdakhq6tvv5kk2unjdaezumn9wshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qpqqqnj0a8ek206f5gvjx3c0v7dayrhq6wv0u4ddtyye7rg6jaeumuqpn5rwy) | 視聴 | 企画: koheiさん お願いして配信をアップしてもらった。WTF_IS_NOSTRのハッシュタグで実況しながら見る。|
+ |  21 | 2024/03/31 | C# モブプログラミング会 Nostr説明 | 企画 | C# 読書会のメンバーにNostr + C# でモブプログラミングを提案・Nostrの説明を行う。|
+ |  22 | 2024/04/27 | [C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) | LT | C# + NostrのLTをやる。|
+ |  23 | 2024/05/19 | 東京大学 5月祭          | 参加    | 5月祭に参加。renさんが手伝っていたHSL研究会の石鹸作りに行く。|
+ |  24 | 2024/05/25 | [おしゃ会5 出店](https://x.com/an_apco/status/1790337763247575394) | 出店 | Nattoさんの誘いで、おしゃ会5に出店。ビットコインとNostrグッズを販売。|
+ |  25 | 2023/05/26 | [技術書典16](https://techbookfest.org/event/tbf16) | 参加    | Nostr本に記事を寄稿。お世話になった方2人に献本。帰りにチバチャンで打ち上げ。|
+ |  26 | 2024/05/29 | [WTF IS NOSTR@焔ノ香](https://nostrudel.ninja/#/n/nevent1qvzqqqqqqypzp47x6q2txs5ptw3fcj8ngj0y7qrnm7z0ft2cptshx5uqgxn2hd4cqy08wumn8ghj7mn0wd68ytnrdakhq6tvv5kk2unjdaezumn9wshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qpqqqnj0a8ek206f5gvjx3c0v7dayrhq6wv0u4ddtyye7rg6jaeumuqpn5rwy) | 視聴 | 企画: koheiさん お願いして配信をアップしてもらった。WTF_IS_NOSTRのハッシュタグで実況しながら見る。|
   
 ### アプリのリリース/更新履歴  
   
