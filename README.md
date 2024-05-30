@@ -28,36 +28,37 @@
 |  21 | 2024/03/02 | [焔ノ香](https://www.japanshishatimes.jp/shishacafe/honoka) | 参加    | 友人4人と京都のkoheiさんのシーシャバー(焔ノ香)に遊びに行く。|
 |  22 | 2024/03/03 | 関西Nostr民と飲み会          | 参加    | タコ頭さん/まきうさん/まきうさんの友達 の4人でカフェとHUBに行く。|
 |  23 | 2024/03/11 | スタジオ録音オフ             | 参加    | 企画: kojiraさん 秋葉原のスタジオでbling-bang-bang-bornとジョジョ その血の運命 を練習。|
+|  24 | 2024/05/17 | 渋谷飲み会                   | 参加    | 企画: 淀川さん たーごいるさん/しおんさん/淀川さんと渋谷で飲みにいく。|
   
-### Nostr民とイベント参加  
-  
-| No. | 日時       | 出来事                  | 役割    | 備考                                              |
-| --- | ---------- | ----------------------- | ------- | --------------------------------------------------|
-|   1 | 2023/05/21 | [技術書典14](https://techbookfest.org/event/tbf14) | 参加    | 村民を初めてverify。 その後、チバチャン打ち上げでバカルーアを飲む。|
-|   2 | 2023/06/16 | Interop2023             | 参加    | Androidの会、Shino3の会社ブース見学。|
-|   3 | 2023/08/13 | コミックマーケット103   | 参加    | nokotaroさんに会う。あおぎさんがいるブースに寄る。|
-|   4 | 2023/10/15 | [Maker Faire](https://makezine.jp/event/mft2023/) | 参加    | しゅうすいさんと周ったあと、サシのみ|
-|   5 | 2023/11/12 | [技術書典15](https://techbookfest.org/event/tbf15)              | 参加    | 帰りにチバチャンで打ち上げ。全員でバカルーアを飲む。|
-|   6 | 2023/12/24 | TRC かおらんどさんブース訪問 | 参加    | 東京流通センター(TRC)でかおらんどさんのブースに行き、アクリルキーホルダーを買う。 |
-|   7 | 2024/03/06 | [開発者のためのビットコイン&ライトニング開発の基本講座](ihttps://lu.ma/taxs08kp) | 参加 | イベント参加。懇親会でterukoさん/Justin_tokyoさんをverify |
-  
-### Nostr関連イベント・勉強会の参加・運営  
+### イベント参加・運営  
   
  | No. | 日時       | 出来事                  | 役割    | 備考                                              |
  | --- | ---------- | ----------------------- | ------- | --------------------------------------------------|
- |   1 | 2023/07/01 | [lightning組立オフ会](https://428lab.connpass.com/event/287697/) | 参加    | 企画:kojiraさん 四谷ラボで実施 その後、近くの中華料理屋で二次会。|
- |   2 | 2023/07/07 | Nostrアイディアソン | 参加    | 企画:kojiraさん 四谷ラボdiscordでオンライン実施|
- |   3 | 2023/08/04 | [Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) | 司会/LT | オンラインで実施。社内以外では人生初LT。やる夫botを作った話をする。|
- |   4 | 2023/09/29 | 四谷ラボメン座談会      | 企画    | オンラインで座談会実施。後に[Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp)の記事となる。|
- |   5 | 2023/11/01 | [Nostrasia Day1](https://nostrasia.notion.site/NostrAsia-Tokyo-Agenda-257609cf726c49339422f4dd02aa3049)     | 参加    | 懇親会でマグロが出る。最後のカラオケPartyでIt's my lifeを歌う。サビで海外Nostrichが壇上に飛び乗ってくる。|
- |   6 | 2023/11/03 | [Nostrasia Day3](https://nostrasia.notion.site/NostrAsia-Tokyo-Agenda-257609cf726c49339422f4dd02aa3049)     | 参加    | じゅりよんからダチョウのコスプレを貰う。tanelと写真を撮る。Waterさんと話す。海外Nostrichと多数交流。|
- |   7 | 2023/11/16 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 下見    | 12/8のオフライン勉強会会場の下見。|
- |   8 | 2023/11/23 | [Flutterで作るNostrアプリのワークショップ](https://japan-android-group.connpass.com/event/301179/) | 参加    | 主催:Androidの会 講師:Shino3 FlutterでTL閲覧＆投稿が出来るアプリが完成。帰りに肉バルを食べて、新宿の花園神社&歌舞伎町に寄る。|
- |   9 | 2023/12/08 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 運営    | 主催:四谷ラボ/つるるん オフライン勉強会の運営をやる。プレゼンタイマーによる時間管理、懇親会の飲食などを担当。 |
- |  10 | 2023/12/16 | [四谷ラボ忘年会](https://428lab.connpass.com/event/301908/) | 参加    | 企画: kojiraさん 焼肉/たこ焼き/生ハムを食べる。初めて会った方3人にNostrの説明をしながら導入サポートをする。2次会でまねきねこで朝までカラオケをする。 |
- |  11 | 2023/12/29 | ゴリラ.vim x 四谷ラボ企画会議| 企画    | 2024/02/10(土)のコラボ勉強会の企画会議に向けて、[ゴリラさん](https://github.com/skanehira)と[ひがしさん](https://github.com/higashi000)を四谷ラボに呼んで企画会議をする。たこ焼きを食べながら企画について話したり、Nostrでの活動を説明する。|
- |  12 | 2023/12/30 | 四谷ラボもくもく会           | 企画    | 四谷ラボで、12/30 14:00 - 12/31 5:00頃までもくもく会をやる。init.vim整理やnostr-vimのリファクタ等を実施。途中でRTA in Japanをみて休憩する。|
- |  13 | 2024/02/10 | [ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) | 主催 | ゴリラ.vimとコラボでLT会を開催。|
+ |   1 | 2023/05/21 | [技術書典14](https://techbookfest.org/event/tbf14) | 参加    | 村民を初めてverify。 その後、チバチャン打ち上げでバカルーアを飲む。|
+ |   2 | 2023/06/16 | Interop2023             | 参加    | Androidの会、Shino3の会社ブース見学。|
+ |   3 | 2023/07/01 | [lightning組立オフ会](https://428lab.connpass.com/event/287697/) | 参加    | 企画:kojiraさん 四谷ラボで実施 その後、近くの中華料理屋で二次会。|
+ |   4 | 2023/07/07 | Nostrアイディアソン | 参加    | 企画:kojiraさん 四谷ラボdiscordでオンライン実施|
+ |   5 | 2023/08/04 | [Nostr勉強会 #3](https://428lab.connpass.com/event/290514/) | 司会/LT | オンラインで実施。社内以外では人生初LT。やる夫botを作った話をする。|
+ |   6 | 2023/08/13 | コミックマーケット103   | 参加    | nokotaroさんに会う。あおぎさんがいるブースに寄る。|
+ |   7 | 2023/09/29 | 四谷ラボメン座談会      | 企画    | オンラインで座談会実施。後に[Hello Nostr! Yo Bluesky! 分散SNSの最前線](https://techbookfest.org/product/6quLEm85cpd4TMJR17xnVF?productVariantID=kgmgxRsKgbVruvRd2zV1sp)の記事となる。|
+ |   8 | 2023/10/15 | [Maker Faire](https://makezine.jp/event/mft2023/)  | 参加    | しゅうすいさんと周ったあと、サシのみ|
+ |   9 | 2023/11/01 | [Nostrasia Day1](https://nostrasia.notion.site/NostrAsia-Tokyo-Agenda-257609cf726c49339422f4dd02aa3049)     | 参加    | 懇親会でマグロが出る。最後のカラオケPartyでIt's my lifeを歌う。サビで海外Nostrichが壇上に飛び乗ってくる。|
+ |  10 | 2023/11/03 | [Nostrasia Day3](https://nostrasia.notion.site/NostrAsia-Tokyo-Agenda-257609cf726c49339422f4dd02aa3049)     | 参加    | じゅりよんからダチョウのコスプレを貰う。tanelと写真を撮る。Waterさんと話す。海外Nostrichと多数交流。|
+ |  11 | 2023/11/12 | [技術書典15](https://techbookfest.org/event/tbf15) | 参加    | Nostr本に記事を寄稿。帰りにチバチャンで打ち上げ。全員でバカルーアを飲む。|
+ |  12 | 2023/11/16 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 下見    | 12/8のオフライン勉強会会場の下見。|
+ |  13 | 2023/11/23 | [Flutterで作るNostrアプリのワークショップ](https://japan-android-group.connpass.com/event/301179/) | 参加    | 主催:Androidの会 講師:Shino3 FlutterでTL閲覧＆投稿が出来るアプリが完成。帰りに肉バルを食べて、新宿の花園神社&歌舞伎町に寄る。|
+ |  14 | 2023/12/08 | [新時代の分散SNS勉強会](https://428lab.connpass.com/event/300313/)   | 運営    | 主催:四谷ラボ/つるるん オフライン勉強会の運営をやる。プレゼンタイマーによる時間管理、懇親会の飲食などを担当。 |
+ |  15 | 2023/12/16 | [四谷ラボ忘年会](https://428lab.connpass.com/event/301908/) | 参加    | 企画: kojiraさん 焼肉/たこ焼き/生ハムを食べる。初めて会った方3人にNostrの説明をしながら導入サポートをする。2次会でまねきねこで朝までカラオケをする。 |
+ |  16 | 2023/12/24 | TRC かおらんどさんブース訪問                       | 参加    | 東京流通センター(TRC)でかおらんどさんのブースに行き、アクリルキーホルダーを買う。 |
+ |  17 | 2023/12/29 | ゴリラ.vim x 四谷ラボ企画会議| 企画    | 2024/02/10(土)のコラボ勉強会の企画会議に向けて、[ゴリラさん](https://github.com/skanehira)と[ひがしさん](https://github.com/higashi000)を四谷ラボに呼んで企画会議をする。たこ焼きを食べながら企画について話したり、Nostrでの活動を説明する。|
+ |  18 | 2023/12/30 | 四谷ラボもくもく会           | 企画    | 四谷ラボで、12/30 14:00 - 12/31 5:00頃までもくもく会をやる。init.vim整理やnostr-vimのリファクタ等を実施。途中でRTA in Japanをみて休憩する。|
+ |  19 | 2024/02/10 | [ゴリラ.vim #30 四谷ラボコラボ](https://gorillavim.connpass.com/event/307622/) | 主催 | ゴリラ.vimとコラボでLT会を開催。|
+ |  20 | 2024/03/06 | [開発者のためのビットコイン&ライトニング開発の基本講座](ihttps://lu.ma/taxs08kp) | 参加 | イベント参加。懇親会でterukoさん/Justin_tokyoさんをverify |
+ |  21 | 2024/04/27 | [C# パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/) | LT | C# + NostrのLTをやる。|
+ |  22 | 2024/05/19 | 東京大学 5月祭          | 参加    | 5月祭に参加。renさんが手伝っていたHSL研究会の石鹸作りに行く。|
+ |  23 | 2024/05/25 | [おしゃ会5 出店](https://x.com/an_apco/status/1790337763247575394) | 出店 | Nattoさんの誘いで、おしゃ会5に出店。ビットコインとNostrグッズを販売。|
+ |  24 | 2023/05/26 | [技術書典16](https://techbookfest.org/event/tbf16) | 参加    | Nostr本に記事を寄稿。お世話になった方2人に献本。帰りにチバチャンで打ち上げ。|
+ |  25 | 2024/05/29 | [WTF IS NOSTR@焔ノ香](https://nostrudel.ninja/#/n/nevent1qvzqqqqqqypzp47x6q2txs5ptw3fcj8ngj0y7qrnm7z0ft2cptshx5uqgxn2hd4cqy08wumn8ghj7mn0wd68ytnrdakhq6tvv5kk2unjdaezumn9wshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qpqqqnj0a8ek206f5gvjx3c0v7dayrhq6wv0u4ddtyye7rg6jaeumuqpn5rwy) | 視聴 | 企画: koheiさん お願いして配信をアップしてもらった。WTF_IS_NOSTRのハッシュタグで実況しながら見る。|
   
 ### アプリのリリース/更新履歴  
   
@@ -68,7 +69,7 @@
 | 2023/12/26 | [nostr-vim](https://github.com/Hakkadaikon/nostr-vim)リリース | - | vim上でnostrに投稿/TL閲覧が出来るnostr-vimをリリース。|
 | 2024/01/03 | [nostr-vim](https://github.com/Hakkadaikon/nostr-vim)機能追加 | - | リアクション/引用リポスト/リポストの表示に対応。|
 | 2024/02/10 | [nostr-vim](https://github.com/Hakkadaikon/nostr-vim)大改造   | - | 2/10のイベントで使う用に、vimクライアントではなくvimクライアント向けライブラリとして改造。|
-
+  
 ### その他の出来事  
   
 | 日時       | 出来事                  | 役割    | 備考                                              |
@@ -90,4 +91,5 @@
 | 2023/09/02 | [Bluesky勉強会 #2](https://428lab.connpass.com/event/293255/) | 主催/司会/LT | NGワードに引っかかったら投稿できない投稿専用クライアントの話をする。 |
 | 2023/12/19 | [Blueskyアドカレ19日目記載](https://adventar.org/calendars/9443) | 参加 | Blueskyのアドカレ19日目を書く。|
 | 2024/02/21 | [Bluesky勉強会 #3](https://428lab.connpass.com/event/310260/) | LT | Blueskyのvimクライアントを作った話をする。|
+| 2024/04/13 | [Bluesky Meetup Tokyo vol.2](https://428lab.connpass.com/event/312335/) | 運営 | 運営として参加。企画や飲食準備など。|
 
